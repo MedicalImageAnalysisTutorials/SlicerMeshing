@@ -6,7 +6,7 @@ project(SlicerMeshing)
 # Extension meta-information
 set(EXTENSION_HOMEPAGE "https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/icv/vissim")
 set(EXTENSION_CATEGORY "VisSimTools")
-set(EXTENSION_CONTRIBUTORS "")
+set(EXTENSION_CONTRIBUTORS "Ibraheem Al-Dhamari idhamari@uni-koblenz.de, Heike Polders polders@uni-koblenz.de, Nora Schwartz nschwartz@uni-koblenz.de, Christian Schroeder cschroeder@uni-koblenz.de  (VisSim, Koblenz-Landau University)")
 set(EXTENSION_DESCRIPTION "Interface for Instant-Meshing and Robust Quad/Hex-dominant Meshing to remesh segmentations.")
 # set(EXTENSION_ICONURL "http://www.example.com/Slicer/Extensions/SlicerRemeshing.png")
 # set(EXTENSION_SCREENSHOTURLS "http://www.example.com/Slicer/Extensions/SlicerRemeshing/Screenshots/1.png")
