@@ -1,0 +1,3 @@
+cmake ..\\Slicer  -DSlicer_DIR:PATH="D:\SB\Slicer-build"  -DCMAKE_BUILD_TYPE:STRING=Release  -G"Visual Studio 14 2015 Win64"
+
+to package, open inner-build solution in VS then build project only cpack, the zip file will be in inner-build folder
