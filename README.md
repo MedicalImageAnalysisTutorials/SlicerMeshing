@@ -5,7 +5,10 @@ Instant Meshes and Robust Quad/Hex-dominant Meshes. For more information about h
 
 **Windows and Ubunut distributions:**
 
-Until these tools are available in Slicer, you can use these two files for Windows 10 and Ubuntu 18.04 that can be installed locally in Slicer using the [Extension manager](https://www.slicer.org/wiki/Documentation/Nightly/SlicerApplication/ExtensionsManager). 
+Until these tools are available in Slicer, you can use these two files for Windows 10 and Ubuntu 18.04 that can be installed locally in Slicer using the [Extension manager](https://www.slicer.org/wiki/Documentation/Nightly/SlicerApplication/ExtensionsManager).
+
+<img src="https://github.com/MedicalImageAnalysisTutorials/SlicerCervicalSpine/blob/master/dist/extm.png" width="400" height="400">
+
 
    * [Windows 10](https://github.com/MedicalImageAnalysisTutorials/SlicerMeshing/raw/master/dist/0-win-amd64-SlicerMeshing-git6e78e8b-2019-03-11.zip)
    * [Ubuntu 18.04](https://github.com/MedicalImageAnalysisTutorials/SlicerMeshing/raw/master/dist/27931-linux-amd64-SlicerMeshing-git87e42e2-2019-02-21.tar.gz)
