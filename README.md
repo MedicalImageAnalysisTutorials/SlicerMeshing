@@ -32,7 +32,7 @@ In ACM Transactions on Graphics (Proceedings of SIGGRAPH 2017)
 
 # Windows and Ubunut distributions:
 
-In dist folder there are two files for Windows 10 and Ubuntu 18.04 that can be installed locally in Slicer. 
+In dist folder there are two files for Windows 10 and Ubuntu 18.04 that can be installed locally in Slicer using the [Extension manager](https://www.slicer.org/wiki/Documentation/Nightly/SlicerApplication/ExtensionsManager). 
 
 [Windows 10](https://github.com/MedicalImageAnalysisTutorials/SlicerMeshing/raw/master/dist/0-win-amd64-SlicerMeshing-git6e78e8b-2019-03-11.zip)
 
