@@ -29,3 +29,7 @@ Xifeng Gao, Wenzel Jakob, Marco Tarini, Daniele Panozzo
 In ACM Transactions on Graphics (Proceedings of SIGGRAPH 2017)
 
 > **paper|supplemental materials|dataset|videos:** https://gaoxifeng.github.io/research.html
+
+# Windows and Ubunut distributions:
+
+In dist folder there are two files for Windows 10 and Ubuntu 18.04 that can be installed locally in Slicer. 
